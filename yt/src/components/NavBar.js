@@ -60,7 +60,7 @@ const NavBar = () => {
             </div>
           </div>
           <div className="flex border font-bold text-lg h-9 rounded-r-full items-center px-5 bg-[#e9e9e9] border-gray-400">
-            <TfiSearch />
+            {/* <TfiSearch /> */}
           </div>
         </div>
         <img
